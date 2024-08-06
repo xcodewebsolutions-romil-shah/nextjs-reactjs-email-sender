@@ -1,0 +1,8 @@
+{
+  "navigation": {
+    "list": "Leads list",
+    "email": "Leads follow",
+    "pageNotFound404": "Page Not Found - 404",
+    "notAuthorized401": "Not Authorized - 401"
+  }
+}
